@@ -2,7 +2,7 @@ Todo-App é uma aplicação web de lista de tarefas que permite ao usuário orga
 
 Tecnologias Utilizadas
 
-- HTML5 e CSS3 (com animações e responsividade)
+- HTML5 e CSS3 
 
 - JavaScript (ES6+ e fetch API)
 
