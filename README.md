@@ -47,20 +47,6 @@ A comunicação entre front-end e back-end é feita via requisições HTTP (API 
 
 ---
 
-## 📂 Estrutura de Pastas
-
-```bash
-todo-app/
-│
-├── public/          # Arquivos estáticos (HTML, CSS, JS)
-├── database/        # Arquivos do banco SQLite
-├── routes/          # Rotas da aplicação
-├── server.js        # Arquivo principal do servidor
-└── package.json     # Dependências do projeto
-```
-
----
-
 ## ⚙️ Como Executar o Projeto
 
 ### 1️⃣ Clone o repositório
