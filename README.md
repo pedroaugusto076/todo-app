@@ -6,12 +6,6 @@ O projeto foca em **front-end interativo**, **persistência de dados** e **inter
 
 ---
 
-## 🚀 Demonstração
-
-> Em breve: link da aplicação hospedada
-
----
-
 ## 📌 Funcionalidades
 
 - ✅ Criar novas tarefas  
@@ -33,17 +27,6 @@ O projeto foca em **front-end interativo**, **persistência de dados** e **inter
 ### Back-end
 - Node.js
 - SQLite
-
----
-
-## 🏗️ Arquitetura do Projeto
-
-O projeto é dividido em duas camadas principais:
-
-- **Front-end**: Responsável pela interface e interações do usuário.
-- **Back-end**: Responsável pelas regras de negócio e comunicação com o banco de dados.
-
-A comunicação entre front-end e back-end é feita via requisições HTTP (API REST).
 
 ---
 
